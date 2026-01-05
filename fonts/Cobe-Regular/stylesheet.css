@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Cobe';
+    src: url('Cobe-Regular.eot');
+    src: url('Cobe-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Cobe-Regular.woff2') format('woff2'),
+        url('Cobe-Regular.woff') format('woff'),
+        url('Cobe-Regular.ttf') format('truetype'),
+        url('Cobe-Regular.svg#Cobe-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Cobe';
+    src: url('Cobe-ExtraBold.eot');
+    src: url('Cobe-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Cobe-ExtraBold.woff2') format('woff2'),
+        url('Cobe-ExtraBold.woff') format('woff'),
+        url('Cobe-ExtraBold.ttf') format('truetype'),
+        url('Cobe-ExtraBold.svg#Cobe-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
